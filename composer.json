@@ -1,8 +1,8 @@
 {
-    "name": "fortify-code/protobuf-php",
+    "name": "rgooding/protobuf-php",
     "description": "PHP implementation of Google's Protocol Buffers (Only for legacy support)",
     "keywords": ["protobuf", "protocol buffer", "serializing"],
-    "homepage": "https://github.com/FortifyCode/Protobuf-PHP",
+    "homepage": "https://github.com/rgooding/Protobuf-PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
